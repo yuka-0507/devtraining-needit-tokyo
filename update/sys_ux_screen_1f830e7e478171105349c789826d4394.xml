@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="canvas">8673067e478171105349c789826d433d</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="home default">9783ca7e478171105349c789826d436a</macroponent>
+        <macroponent_config>{ }</macroponent_config>
+        <name>home default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Header App Shell">9d9670b0c30320109fe6a0f89d40dd97</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="home">5783ca7e478171105349c789826d4368</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-06 23:57:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1f830e7e478171105349c789826d4394</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>home default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_screen_1f830e7e478171105349c789826d4394</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-06 23:57:22</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=1f830e7e478171105349c789826d4394"/>
+</record_update>
